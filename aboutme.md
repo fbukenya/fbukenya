@@ -4,13 +4,10 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm a recovering tech professional existing somewhere between burnout and breakthrough, navigating life with ADHD and an unreasonable amount of caffeine. After years of building web applications while my own operating system ran on duct tape and determination, I'm exploring what happens when you stop forcing outcomes and start working with your brain's natural chaos instead of against it.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+This digital garden is where I write about technology, creativity, recovery, and the ongoing experiment of being human in a digital age without completely losing it. Part technical reflection, part philosophical wandering, part ADHD-fueled pattern recognition that occasionally makes sense.
 
-What else do you need?
+Currently in my Schrodinger's cat era: neither fully in tech nor fully out, finding meaning in the superposition rather than rushing to collapse into a single state. I've been making music longer than I've been writing code, and I'm learning that the best things happen when you stop optimizing for metrics and start optimizing for genuine connection.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Fair warning: I publish in seasons, not schedules. Sometimes daily bursts, sometimes radio silence. It's not inconsistency—it's honesty about how ADHD attention actually works.
