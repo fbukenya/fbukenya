@@ -1,13 +1,123 @@
-# project
-_site
-.sass-cache
-.vagrant
+# This is a global gitignore file, containing useful ignore rules for many
+# operating systems and text editors. This gitignore does not ignore files for
+# any specific programming languages.
 
-# general
+# You may need to manually add this file to your global gitconfig so git knows
+# to use it for any repository:
+# git config --global core.excludesfile ~/.gitignore
+
+# More information: http://help.github.com/git-ignore/
+
+# Linux files
+*~
+
+# OS X files
 .DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows files
 Thumbs.db
 ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
 
-Gemfile.lock
+# Vim files
+.*.s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
 
-beautiful-jekyll-theme-*.gem
+# SublimeText project files
+*.sublime-workspace
+
+# TextMate files
+*.tmproj
+*.tmproject
+tmtags
+
+# Eclipse files (covers most of the basic stuff, you might need to add more)
+.classpath
+.project
+.settings
+
+# Intellij files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Emacs files
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+.elc
+auto-save-list
+tramp
+.\#*
+
+# Org-mode files
+.org-id-locations
+*_archive
+
+# VSCode files
+.vscode/
+*.history/
+
+# JetBrains IDEs
+.idea/
+
+# Cypress
+.idea/
+/node_modules
+/cypress/videos
+/cypress/screenshots
+/cypress.env.json
+
+# Node.js
+node_modules/
+
+# npm
+package-lock.json
+
+# Yarn
+yarn.lock
+
+# pnpm
+pnpm-lock.yaml
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+
+# Hugo  
+/public/
+# Hugo cache
+/hugo_cache/
+# Hugo resources
+/hugo_resources/
+# Hugo config
+/hugo_config.toml
+# Hugo default output directory
+/public
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# MacOS
+.DS_Store
+
+# exampleSite
+exampleSite/themes
+exampleSite/public
+themes/hugo-theme-mini
