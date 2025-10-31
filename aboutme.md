@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: On this form of Identity
 ---
 
 I'm a recovering tech professional existing somewhere between burnout and breakthrough, navigating life with ADHD and an unreasonable amount of caffeine. After years of building web applications while my own operating system ran on duct tape and determination, I'm exploring what happens when you stop forcing outcomes and start working with your brain's natural chaos instead of against it.

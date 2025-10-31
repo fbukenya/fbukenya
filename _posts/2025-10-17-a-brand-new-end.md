@@ -2,10 +2,10 @@
 layout: post
 title: A Brand New End
 subtitle: On doors closing and windows opening
+readtime: true
 tags: [post, contemplations]
 comments: true
 mathjax: true
-author: MDSC
 ---
 
 "Every new beginning comes from some other beginning's end."
