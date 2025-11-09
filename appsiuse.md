@@ -52,6 +52,18 @@ Below are links to apps that I am currently using or have used in the past. Some
   </a>
 </div>
 
+<!-- Endel Focus Player App Card with Fixed Height -->
+<div style="display: inline-block; width: 280px; min-height: 320px; margin: 15px; padding: 20px; border: 1px solid #e0e0e0; border-radius: 10px; text-align: center; vertical-align: top; box-shadow: 0 2px 6px rgba(0,0,0,0.08); transition: all 0.3s ease; background-color: #fafafa; box-sizing: border-box;" onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 6px 12px rgba(0,0,0,0.15)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 6px rgba(0,0,0,0.08)';">
+  <a href="https://app.endel.io/player/focus" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: flex; flex-direction: column; height: 100%;">
+    <img src="{{ 'assets/img/endel.png' | relative_url }}" alt="Endel" style="max-width: 100%; height: 80px; object-fit: contain; margin-bottom: 15px; background-color: #000; padding: 10px; border-radius: 4px;">
+    <h3 style="font-size: 18px; margin: 0 0 10px 0; color: #333; font-weight: 600;">Endel Focus (Free / Paid)</h3>
+    <p style="font-size: 14px; color: #666; margin: 0; line-height: 1.4; flex-grow: 1; overflow: hidden; text-overflow: ellipsis;">
+      Personalized soundscapes designed to improve concentration, reduce stress, and enhance your focus with AI-generated music tailored to your environment.
+    </p>
+  </a>
+</div>
+
+
 
 
 
