@@ -37,7 +37,7 @@ Crypto tips go directly toward hosting costs, storage space, and the occasional 
 
 ## 🛒 Support Through Affiliate Links
 
-Some posts include affiliate links — usually to books, tools, or projects that genuinely align with the spirit of the blog. You can find a simple list (this will be a living document so it will grow over time). You can find the list at ["Stuff I use"](/stuffiuse). 
+Some posts include affiliate links — usually to books, tools, or projects that genuinely align with the spirit of the blog. You can find a simple list (this will be a living document so it will grow over time). You can find the list at ["Stuff I use"](/stuffiuse) or ["Apps I use"](/appsiuse). 
 
 
 Buying through them costs you nothing extra, but sends a few quiet cents my way.  
