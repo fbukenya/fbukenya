@@ -18,7 +18,7 @@ I’d rather this space remain clean, quiet, and intentional. This blog is a pas
 
 Running servers, domain renewals, and writing time all cost something, though. So if you ever want to help keep the lights on, there are a few ways:
 
-- **Buy through affiliate links** — they give me a small percentage at no extra cost to you.  
+- **Buy through affiliate links** — they give me a small percentage at no extra cost to you. Simply head to ["Stuff I use"](/stuffiuse) 
 
 - **Donate via Ko-fi**: <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'H2H11MW5K5');kofiwidget2.draw();</script>  
 

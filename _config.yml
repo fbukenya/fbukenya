@@ -22,8 +22,9 @@ author: MDSC
 navbar-links:
   About Me: "aboutme"
   Disclosure: "affiliate"
-  Gear & Resources:
-  - Tech I Use: "stuffiuse"
+  Support the project: "support-the-project"
+  # Gear & Resources:
+  # - Tech I Use: "stuffiuse"
   # - Apps I Use: "appsiuse"
   Youtube: "https://www.youtube.com/@boxxedkittie"
 
