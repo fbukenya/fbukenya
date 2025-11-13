@@ -2,10 +2,11 @@
 layout: post
 title: You Don’t Need to Fix Yourself to Function  
 subtitle: On doing good work while still being a little broken
-readtime: true
 tags: [post, contemplations, recovery, healing, neural-atypical, productivity]
+category: essays
+readtime: true
 comments: true
-mathjax: true
+permalink: /you-dont-need-to-fix-yourself-to-function/
 ---
 
 You’ve stared at the blinking cursor, willing your mind to behave. You’ve felt the sharpened edge of expectation — that you must _be fixed_ before you’re useful. Let’s kill that myth now. Because the hard truth is: working, creating, contributing … you don’t need a pristine psyche to do it. You just need presence. You just need to keep showing up, even when parts of you are fraying. In fact, the very cracks might be your strongest signal of relevance.

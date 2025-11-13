@@ -2,10 +2,11 @@
 layout: post
 title: A Brand New End
 subtitle: On doors closing and windows opening
-readtime: true
 tags: [post, contemplations]
+category: essays
+readtime: true
 comments: true
-mathjax: true
+permalink: /a-brand-new-end/
 ---
 
 "Every new beginning comes from some other beginning's end."

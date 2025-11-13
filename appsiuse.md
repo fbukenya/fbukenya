@@ -21,7 +21,7 @@ Below are links to apps that I am currently using or have used in the past. Some
 
 <!-- Freedom App Card with Fixed Height -->
 <div style="display: inline-block; width: 280px; min-height: 320px; margin: 15px; padding: 20px; border: 1px solid #e0e0e0; border-radius: 10px; text-align: center; vertical-align: top; box-shadow: 0 2px 6px rgba(0,0,0,0.08); transition: all 0.3s ease; background-color: #fafafa; box-sizing: border-box;" onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 6px 12px rgba(0,0,0,0.15)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 6px rgba(0,0,0,0.08)';">
-  <a href="https://freedom.to" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: flex; flex-direction: column; height: 100%;">
+  <a href="https://freedom.sjv.io/LKQ5xO" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; display: flex; flex-direction: column; height: 100%;">
     <img src="{{ 'assets/img/freedom-app.png' | relative_url }}" alt="Freedom App" style="max-width: 100%; height: 80px; object-fit: contain; margin-bottom: 15px;">
     <h3 style="font-size: 18px; margin: 0 0 10px 0; color: #333; font-weight: 600;">Freedom (Paid)</h3>
     <p style="font-size: 14px; color: #666; margin: 0; line-height: 1.4; flex-grow: 1; overflow: hidden; text-overflow: ellipsis;">
